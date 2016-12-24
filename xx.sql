@@ -1,0 +1,3 @@
+create user(
+  id int
+);
